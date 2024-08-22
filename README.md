@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamesh1618  88 Elder deadhead. Retired HVAC service contractor and former active New Mexico Militia. 
+- 👋 Hi, I’m @jamesh1618  88 circuits around Sol.  Elder deadhead. Retired HVAC service contractor and former active New Mexico Militia. 
 - 👀 I’m interested in ...learning to verify program downloads. The goal is to have a good working copy of Electrum. 
 - 🌱 I’m currently learning ...to deal with frustration. 
 - 💞️ I’m looking to collaborate on ...help finding a place where I can learn to use Kleopatra and anything else I need to verifiy critical program files.
